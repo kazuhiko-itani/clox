@@ -2,6 +2,20 @@
   "files.associations": {
     "string": "c",
     "iosfwd": "c",
-    "object.h": "c"
+    "object.h": "c",
+    "__config": "c",
+    "__debug": "c",
+    "__locale": "c",
+    "__string": "c",
+    "bitset": "c",
+    "chrono": "c",
+    "cstdlib": "c",
+    "ios": "c",
+    "locale": "c",
+    "stdexcept": "c",
+    "string_view": "c",
+    "system_error": "c",
+    "typeinfo": "c",
+    "version": "c"
   }
 }
